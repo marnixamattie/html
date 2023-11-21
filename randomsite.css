@@ -12,6 +12,9 @@ div{
     background-color: black;
     color: lightblue;
 }
+#q{
+    color: blue;
+}
 
 .elo{
 
@@ -39,4 +42,8 @@ body{
     margin-top:15%;
     display: flex;
     justify-content: space-between;
+}
+#q{
+    text-align: center;
+    color: lightblue;
 }
