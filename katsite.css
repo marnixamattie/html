@@ -1,0 +1,32 @@
+body{
+    background-image: url("/images/kat1.jpg");
+}
+
+.title{
+    text-align: center;
+    background-color: blue;
+    border-style: ridge;
+    border-radius: 30px;
+    
+}
+
+#hz{
+    text-align: center;
+    border-style: dotted;
+    border-radius: 5px;
+    background-color: orange;
+    width: fit-content;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fakka{
+    display: flex;
+    text-align: center;
+    margin-left: 20%;
+}
+
+.lijst{
+    background-color: white;
+ margin-left: 70%;
+}
