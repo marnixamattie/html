@@ -1,0 +1,11 @@
+.centering{
+
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 33% 33% 33%;
+}
+
+#plaatje{
+    grid-column: 1/4;
+    grid-row: 2;
+}

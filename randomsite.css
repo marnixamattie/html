@@ -1,32 +1,36 @@
 .i{
 text-align: center;
 font-weight: lighter;
-    color: lightblue;
+    color: black;
 }
 
-div{
-    background-color: black;
+.bovenkant{
+    background-color: white;
     width: 100%;
 }
 #o{
-    background-color: black;
-    color: lightblue;
+    background-color: white;
+    color: black;
+    text-align: right;
+    margin-right: 1%;
 }
 #q{
     color: blue;
 }
 
 .elo{
-
-    color: lightblue;
+    color: black;
+    margin-left: 4%;
 }
 .p{
    
-color: lightblue;
+color: black;
+
 }
 .m{
     text-align: right;
-    color: lightblue;
+    color: black;
+    margin-right: 4%;
 }
 
 
@@ -42,8 +46,49 @@ body{
     margin-top:15%;
     display: flex;
     justify-content: space-between;
+    background-color: white;
 }
 #q{
     text-align: center;
-    color: lightblue;
+    color: black;
+}
+
+body{
+    background-image: url(/images/ja1.jpg)
+}
+img{
+    margin-top: 2%;
+    width: 10%;
+    
+}
+
+.clothing{
+    display: flex;
+    justify-content: space-between;
+}
+
+.onderkant{
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+
+.prijs{
+    margin-left: 4%;
+    margin-right: 4%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.aboutus{
+    background-color: white;
+    display: flex;
+    text-indent: 50px;
+    }
+
+.onderkantinfo{
+    color: black;
+    background-color: white;
+
 }

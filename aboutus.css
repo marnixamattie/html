@@ -1,0 +1,20 @@
+.bovenkant{
+    text-align: center;
+    background-color: lightgray;
+    border-radius: 30px; 
+}
+
+.aboutus{
+    display: flex;
+    text-indent: 50px;
+}
+
+.text{
+    background-color: lightgray;
+    border-radius: 15px;
+}
+.onderkant{
+    text-align: center;
+    color: white;
+    background-color: black;
+}

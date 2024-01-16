@@ -1,0 +1,51 @@
+.bovenkant{
+    background-color: white;
+    color: black;
+    text-align: center;
+    background-color: lightgray;
+    border-radius: 30px; 
+}
+
+.aboutus{
+    display: flex;
+    text-indent: 50px;
+    background-color: white;
+    color: black;
+}
+
+.fotos{
+    display: grid;
+    grid-template-rows: 33% 33% 33%;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+#shirt{
+    grid-column: 1;
+    grid-row: 1;
+}
+
+#shirt1{
+    grid-column: 2;
+    grid-row: 1;
+}
+
+img{
+    margin-top: 3%;
+    height: 100%;
+    width: 100%;
+}
+.onderkant{
+    text-align: center;
+
+}
+.onderkant1{
+ background-color: black;
+ color: white;
+ text-align: center;
+}
+
+
+
+
+
+
