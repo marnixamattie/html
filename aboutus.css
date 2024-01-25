@@ -18,3 +18,12 @@
     color: white;
     background-color: black;
 }
+#form{ 
+   background-color: lightgray;
+text-align: center;
+}
+
+.forms{
+    text-align: center;
+    margin-left: 1%;
+}

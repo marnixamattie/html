@@ -19,16 +19,6 @@
     grid-template-columns: 25% 25% 25% 25%;
 }
 
-#shirt{
-    grid-column: 1;
-    grid-row: 1;
-}
-
-#shirt1{
-    grid-column: 2;
-    grid-row: 1;
-}
-
 img{
     margin-top: 3%;
     height: 100%;
@@ -43,6 +33,17 @@ img{
  color: white;
  text-align: center;
 }
+
+@media(orientation: portrait){
+    .fotos{
+    display: grid;
+    grid-template-rows: 20%;
+    grid-template-columns: 50% 50%;
+    grid-column: 1;
+    grid-row: 2;
+}
+}
+
 
 
 
